@@ -17,3 +17,7 @@ ax.tick_params(labelsize=14)
 
 
 plt.show()
+<<<<<<< HEAD
+=======
+# p.308
+>>>>>>> origin/master
